@@ -9,3 +9,7 @@ cp ~/.i3status.conf ./
 
 # Copy .gdbinit
 cp ~/.gdbinit ./
+
+# Copy profile
+cp /etc/profile.d/app_paths.sh ./
+
